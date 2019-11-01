@@ -1,0 +1,20 @@
+body {
+    background: silver;
+    font-family: 'Kalam', cursive;
+}
+
+h1 {
+    background: skyblue;
+    border-radius: 5px;
+    margin: auto;
+    width: 800px;
+    text-align: center;
+}
+
+#para {
+    text-align: center;
+    background: skyblue;
+    border-radius: 5px;
+    width: 408px;
+    margin: auto;
+}
